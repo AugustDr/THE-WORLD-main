@@ -1,0 +1,21 @@
+{
+  "entity.rotp_theworld.the_world": "THE WORLD",
+  "stand.rotp_theworld.the_world": "THE WORLD",
+  "action.rotp_theworld.THE_WORLD_punch": "Punch",
+  "action.rotp_theworld.THE_WORLD_heavy_punch": "Heavy Punch",
+  "action.rotp_theworld.THE_WORLD_knockback_punch": "Knockback Punch",
+  "action.rotp_theworld.THE_WORLD_barrage": "Punch Barrage",
+  "action.rotp_theworld.THE_WORLD_knife_barrage": "Knife Barrage",
+  "action.rotp_theworld.THE_WORLD_block": "Block",
+  "rotp_theworld.subtitle.THE_WORLD_name": "\"THE WORLD\"",
+  "action.rotp_theworld.THE_WORLD_time_stop": "\"Time, Stop!\" (%ss)",
+  "action.rotp_theworld.THE_WORLD_ts_punch": "Time Stop Punch",
+  "action.rotp_theworld.THE_WORLD_time_stop.invasion": "Time Stop Invasion (%ss)",
+  "action.rotp_theworld.THE_WORLD_time_resume": "Resume time",
+  "action.rotp_theworld.THE_WORLD_ts_blink": "\"Teleport\" in stopped time",
+  "action.rotp_theworld.THE_WORLD_ts_blink.shortened": "\"Teleport\"",
+
+  "rotp_theworld.stand_skins.skinA": "Skin A",
+  "rotp_theworld.stand_skins.skinB": "Skin B",
+  "rotp_theworld.stand_skins.skinC": "Skin C"
+}
