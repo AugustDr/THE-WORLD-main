@@ -12,7 +12,7 @@ public class THEWORLDTimeStop extends TimeStop {
     public THEWORLDTimeStop(Builder builder) {
         super(builder);
     }
-    public static final StandPose TIME_STOP = new StandPose("TIME_STOP");
+    public static final StandPose TIME_STOP = new StandPose("time_stop");
     @Override
     protected boolean autoSummonStand(IStandPower power) {
         return super.autoSummonStand(power) || power.getResolveLevel() < 2;
